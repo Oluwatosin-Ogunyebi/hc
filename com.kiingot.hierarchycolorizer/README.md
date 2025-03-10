@@ -23,7 +23,7 @@ You can install Hierarchy Colorizer in two ways: using a Git URL or as a local p
    - Click the **+** button in the top left and select **Add package from Git URL...**.
    - Enter the following URL (replace with your actual repository URL and version tag):
      ```
-     https://github.com/Oluwatosin-Ogunyebi/hierarchycolorizer.git#1.0.0
+     https://github.com/Oluwatosin-Ogunyebi/hierarchycolorizer.git?path=/com.kiingot.hierarchycolorizer
      ```
    - Click **Add**. The package will be downloaded and installed.
 
