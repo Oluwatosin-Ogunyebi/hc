@@ -23,14 +23,14 @@ You can install Hierarchy Colorizer in two ways: using a Git URL or as a local p
    - Click the **+** button in the top left and select **Add package from Git URL...**.
    - Enter the following URL:
      ```
-     https://github.com/Oluwatosin-Ogunyebi/hierarchycolorizer.git?path=/com.kiingot.hierarchycolorizer
+     https://github.com/Oluwatosin-Ogunyebi/hierarchycolorizer.git?path=/com.kiingot.hc
      ```
    - Click **Add**. The package will be downloaded and installed.
 
 ### Option 2: Install as a Local Package
 
 1. **Download the Package:**
-   - Download or clone the package folder (named something like `com.kiingot.hierarchycolorizer`) to your computer.
+   - Download or clone the package folder (named something like `com.kiingot.hc`) to your computer.
 
 2. **Add the Package to Your Unity Project:**
    - Copy the entire package folder.

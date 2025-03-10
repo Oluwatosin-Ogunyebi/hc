@@ -1,0 +1,25 @@
+{
+  "name": "com.kiingot.hc",
+  "version": "1.0.0",
+  "displayName": "Hierarchy Colorizer",
+  "description": "A simple Unity package that organizes and color-codes the Hierarchy based on GameObject tags.",
+  "unity": "2019.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oluwatosin-Ogunyebi/hc.git"
+  },
+  "documentationUrl": "https://github.com/Oluwatosin-Ogunyebi/hc/blob/main/com.kiingot.hc/README.md",
+  "changelogUrl": "https://github.com/Oluwatosin-Ogunyebi/hc/blob/main/com.kiingot.hc/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Oluwatosin-Ogunyebi/hc/blob/main/com.kiingot.hc/LICENSE",
+  "type": "tool",
+  "keywords": [
+    "Hierarchy",
+    "Color",
+    "Editor"
+  ],
+  "author": {
+    "name": "Oluwatosin Ogunyebi",
+    "email": "oluwatosinogunyebi@gmail.com",
+    "url": "https://oluwatosinogunyebi.com"
+  }
+}
